@@ -6,3 +6,4 @@
 
 
 ## Submit bug reports
+### **[Click here](https://github.com/StreamProtect/issues/issues/new?assignees=&labels=bug&template=rep.yaml)**
